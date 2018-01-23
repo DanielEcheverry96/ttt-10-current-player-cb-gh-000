@@ -9,12 +9,5 @@ end
 
 def current_player(board)
   turn_count.even ? "X" : "O"
-  end
 end
 
-=begin
-if turn_count.even?
-  player1
-else
-  player2
-=end
